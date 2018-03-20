@@ -1,0 +1,23 @@
+{
+    "name": "danebank/calendar",
+    "description": "Danebank Calendar",
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/akismet": "*",
+	"wpackagist-theme/wp-bootstrap-starter": "*",
+        "wpackagist-plugin/pagerestrict":"*",
+        "wpackagist-plugin/my-wp-health-check":"*",
+        "wpackagist-plugin/amazon-web-services": "*",
+        "wpackagist-plugin/amazon-s3-and-cloudfront": "*",
+        "wpackagist-plugin/the-events-calendar": "*",
+        "wpackagist-plugin/the-events-calendar-category-colors": "*",
+        "wpackagist-plugin/google-analytics-for-wordpress": "*",
+        "wpackagist-plugin/wp-updates-notifier": "*",
+	"wpackagist-plugin/all-in-one-wp-security-and-firewall": "*"
+    }
+}
