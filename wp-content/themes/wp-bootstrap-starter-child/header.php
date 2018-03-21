@@ -53,30 +53,7 @@
         </nav>
     </div>
 	</header><!-- #masthead -->
-    <?php if(is_home() && !get_theme_mod( 'header_banner_visibility' )): ?>
-        <div id="page-sub-header" <?php if(has_header_image()) { ?>style="background-image: url('<?php header_image(); ?>');" <?php } ?>>
-            <div class="container">
-                <h1>
-                    <?php
-                    if(get_theme_mod( 'header_banner_title_setting' )){
-                        echo get_theme_mod( 'header_banner_title_setting' );
-                    }else{
-                        echo get_bloginfo('name');
-                    }
-                    ?>
-                </h1>
-                <p>
-                    <?php
-                    if(get_theme_mod( 'header_banner_tagline_setting' )){
-                        echo get_theme_mod( 'header_banner_tagline_setting' );
-                }else{
-                        echo esc_html__('To customize the contents of this header banner and other elements of your site go to Dashboard - Appearance - Customize','wp-bootstrap-starter');
-                    }
-                    ?>
-                </p>
-            </div>
-        </div>
-    <?php endif; ?>
+    
 	<div id="content" class="site-content">
 		<div class="container">
 			<div class="row">

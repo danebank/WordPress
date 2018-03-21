@@ -26,12 +26,13 @@ body {
   border-top-color: #00aab8;
   border-top-width: 20px;
 }
-header h1 {
+header h1, header a:hover {
   color: #00453e;
   font-size: 42px;
   font-weight: 500;
   font-family: "Lato", sans-serif;
   padding: 1.25rem 0 0.75rem;
+  text-decoration: none;
 }
 .header-image {
   background-image: url('./images/header-120px.svg');
@@ -55,6 +56,11 @@ header#masthead {
   font-weight: 400;
   font-size: 2em !important;
   color: #555;
+}
+body:not(.theme-preset-active) #masthead .navbar-nav li a:hover,
+body:not(.theme-preset-active) #masthead .navbar-nav li.current_page_item a,
+body:not(.theme-preset-active) #masthead .navbar-nav li  a {
+  color: #00453e;
 }
 footer#colophon {
   background-color: #eee;
