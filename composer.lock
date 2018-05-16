@@ -148,7 +148,7 @@
         },
         {
             "name": "wpackagist-plugin/all-in-one-wp-security-and-firewall",
-            "version": "4.3.2",
+            "version": "4.3.3.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/all-in-one-wp-security-and-firewall/",
@@ -156,7 +156,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/all-in-one-wp-security-and-firewall.zip?timestamp=1517558608",
+                "url": "https://downloads.wordpress.org/plugin/all-in-one-wp-security-and-firewall.zip?timestamp=1524732748",
                 "reference": null,
                 "shasum": null
             },
@@ -208,15 +208,15 @@
         },
         {
             "name": "wpackagist-plugin/google-analytics-for-wordpress",
-            "version": "7.0.4",
+            "version": "7.0.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/google-analytics-for-wordpress/",
-                "reference": "tags/7.0.4"
+                "reference": "tags/7.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.7.0.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.7.0.6.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -268,15 +268,15 @@
         },
         {
             "name": "wpackagist-plugin/the-events-calendar",
-            "version": "4.6.12",
+            "version": "4.6.15",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/the-events-calendar/",
-                "reference": "tags/4.6.12"
+                "reference": "tags/4.6.15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.6.12.zip",
+                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.6.15.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -288,15 +288,15 @@
         },
         {
             "name": "wpackagist-plugin/the-events-calendar-category-colors",
-            "version": "5.0.0",
+            "version": "5.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/the-events-calendar-category-colors/",
-                "reference": "tags/5.0.0"
+                "reference": "tags/5.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/the-events-calendar-category-colors.5.0.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/the-events-calendar-category-colors.5.0.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -328,15 +328,15 @@
         },
         {
             "name": "wpackagist-theme/wp-bootstrap-starter",
-            "version": "3.0.11",
+            "version": "3.0.15",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/wp-bootstrap-starter/",
-                "reference": "3.0.11"
+                "reference": "3.0.15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/wp-bootstrap-starter.3.0.11.zip",
+                "url": "https://downloads.wordpress.org/theme/wp-bootstrap-starter.3.0.15.zip",
                 "reference": null,
                 "shasum": null
             },
